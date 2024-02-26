@@ -4,11 +4,11 @@ body {
 }
 
 h1 {
-  color: purple;
+  color: blue;
 }
 
 .answer {
   color: green;
-  font-family: cursive;
-  font-size: xxx-large;
+  font-family: Arial, sans-serif;
+  font-size: large;
 }
